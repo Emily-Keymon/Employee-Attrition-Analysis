@@ -1,8 +1,8 @@
-# Can Employee Attrition be Predicted?
+## Can Employee Attrition be Predicted?
 
-## Website:   https://emily-keymon.github.io/Final-Project/
+# Website:   https://emily-keymon.github.io/Final-Project/
 
-## Data found at https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+# Data found at https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 # This is a fictional dataset about the attrition rate of employees. The challenge is to use machine learning to predict at this particular moment in time whether a person who is currently employed for the company will leave. This data does not allow the creation of a model that can predict when an employee will leave.
 
