@@ -51,4 +51,4 @@
 * 3 'Better',
 * 4 'Best'
 
-# Additionally, further research helped us conclude that "DailyRate" and "MonthlyRate" refer to the cost of a particular employee in that time period this includes but is not limited to their salary and benefits. The "HourlyRate" is what you would expect, i.e. the rate an employee is paid per hour. Likewise, the "MonthlyIncome" is how much they actually earned per month. 
+### Additionally, further research helped us conclude that "DailyRate" and "MonthlyRate" refer to the cost of a particular employee in that time period this includes but is not limited to their salary and benefits. The "HourlyRate" is what you would expect, i.e. the rate an employee is paid per hour. Likewise, the "MonthlyIncome" is how much they actually earned per month. 
