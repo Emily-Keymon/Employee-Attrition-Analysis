@@ -430,7 +430,8 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 20px;
   left: 40px;
   right:40px;
-  background-color: #fff;}
+  background-color: #000000;
+  opacity: 0.5;}
 
 #hero h2 {
   color: #fff;
