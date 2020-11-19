@@ -18,14 +18,14 @@ Education was ranked 1-5, 1 being "Below College" and 5 being "Doctor." Environm
 
 Other more straight-forward data points we were given were Age, Gender, Marital Status, Job Title, Travel Time and Years Spent in Position. Most importantly, we were also given each employees Monthly Income and a Yes/No of whether they attrited or not.
 
+## Data Source:  
+* https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 ## Boostrap Source:
 * Template Name: Multi
 * Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
-
-## Data Source:  
-* https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Other Sources:
 * https://corporatefinanceinstitute.com/resources/careers/jobs/attrition-2/
