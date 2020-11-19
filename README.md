@@ -62,5 +62,5 @@ Additionally, further research helped us conclude that "DailyRate" and "MonthlyR
 * License: https://bootstrapmade.com/license/
 
 ## Other sources:
-https://corporatefinanceinstitute.com/resources/careers/jobs/attrition-2/
+* https://corporatefinanceinstitute.com/resources/careers/jobs/attrition-2/
 
