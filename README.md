@@ -4,7 +4,7 @@
 
 ### Tableau:  https://public.tableau.com/profile/antonuos.samor#!/vizhome/EMPLOYEEATTRITIONPREDICTOR/Story1?publish=yes
 
-### Data Resource:  https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+#### Data Resource:  https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 Our project is based around a fictional dataset that gave us various details on employees and whether they attrited or not. The challenge was to incorporate machine learning to give as an algorithm, for a company or manager to use, that determines if an employee will leave their position. Unfortunately, this data does not allow the creation of a model that can predict when an employee will leave but rather show you the likelihood of resignation in that current moment based on specific variables. From the dataset, we were given ratings for each employee on the below factors:
 
