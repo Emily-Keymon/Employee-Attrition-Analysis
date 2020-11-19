@@ -2,7 +2,7 @@
 
 ## Website:   https://emily-keymon.github.io/Final-Project/
 
-### Tableau:  https://public.tableau.com/profile/antonuos.samor#!/vizhome/IBMemployee1/BusinessTravel
+### Tableau:  https://public.tableau.com/profile/antonuos.samor#!/vizhome/EMPLOYEEATTRITIONPREDICTOR/Story1?publish=yes
 
 ### Data found at https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
