@@ -499,13 +499,13 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(255, 255, 255, 0.2);
   border-radius: 50px;
   padding: 10px;
-  transition: 0.3s;
+  transition: 0.5s;
   color: rgba(255, 0, 0, 0.5);
 }
 
 #hero .carousel-control-next-icon:hover, #hero .carousel-control-prev-icon:hover {
-  background: rgba(255, 255, 255, 0.3);
-  color: rgba(255, 255, 255, 0.8);
+  background: rgba(255,0, 0, 0.3);
+  color: rgba(255, 0, 0, 0.8);
 }
 
 #hero .carousel-indicators li {
