@@ -503,7 +503,7 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(255, 255,255, 0.5);
 }
 
-.carousel-control-next-icon, .carousel-control-prev-icon {
+#explan .carousel-control-next-icon, #explan .carousel-control-prev-icon {
   background: none;
   font-size: 44px;
   line-height: 1;
