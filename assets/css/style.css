@@ -503,6 +503,16 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(255, 255,255, 0.5);
 }
 
+.carousel-container {
+  
+  align-items: center;
+  
+  bottom: 0;
+  top: 82px;
+  left: 50px;
+  right: 50px;
+}
+
 .carousel-control-prev, .carousel-control-next {
   width: 5%;
   top: 112px;
