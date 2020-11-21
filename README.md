@@ -18,6 +18,10 @@ Education was ranked 1-5, 1 being "Below College" and 5 being "Doctor." Environm
 
 Other more straight-forward data points we were given were Age, Gender, Marital Status, Job Title, Travel Time and Years Spent in Position. Most importantly, we were also given each employees Monthly Income and a Yes/No of whether they attrited or not.
 
+## Conclusions:
+When you review the data and make standard charts and graphs, you can see that there is no single variable which determines attrition rates. Machine learning techniques also confirmed this by showing a very broad importance value range for many different variables. Through our exploration of several different machine learning models, we were able to conclude that using a regression model such as Lasso produced too much overfit for our particular dataset. We selected the Gradient Booster model as the best fit for this data due to its unique approach to correcting for overfit in complex questions such as this one. While there is no one factor which determines attrition in this dataset, the most significant factor by a very small margin is Monthly Income - meaning that most of the people who left the company made less than the overall average monthly income and most of those who stayed made more than the monthly average salary. Our Gradient Boosting Model enables us to use the outliers to predict using all of the measured variables and not just that single variable. 
+
+
 ## Data Source:  
 * https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
