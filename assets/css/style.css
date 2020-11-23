@@ -518,7 +518,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 20px;
   padding: 0px;
   transition: 0.5s;
-  color: rgba(255, 0, 0);
+  color: rgba(60, 60, 60);
 }
 
 #hero .carousel-control-next-icon:hover, #hero .carousel-control-prev-icon:hover {
