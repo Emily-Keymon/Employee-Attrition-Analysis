@@ -26,9 +26,13 @@ Machine learning techniques also confirmed this by showing a very broad importan
 ## Data Source:  
 * https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 ## Languages/Libraries Used
-* Python - Pandas, Numpy, Flask, PyMongo 
+* Python - pandas, seaborn
 * HTML/CSS - Bootstrap
 * Javascript - Leaflet, D3, APEXCHARTS
+## Tasks
+* Data exploration and clean up
+1.  Imported csv data as a Pandas data frame
+2.  
 ## Boostrap Source:
 * Template Name: Multi
 * Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
