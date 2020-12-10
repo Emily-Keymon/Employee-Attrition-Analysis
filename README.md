@@ -33,8 +33,16 @@ Machine learning techniques also confirmed this by showing a very broad importan
 ### Data exploration 
 1.  Imported csv data as a Pandas data frame
 2.  Explored data set using Pandas .shape() and .describe()
-3.  Visualized the data set using seaborn and matplotlib
-### 
+3.  Visualized the data set using Seaborn and Matplotlib
+### Data cleanup
+1.  Used get_dummies to convert categorical data into dummy variables to be used for machine learning
+2.  Removed extra columns
+3.  Renamed columns to remove spacing
+### Machine Learning
+1.  Assigned cleaned colums as X and y
+2.  Trained the model using a seed using train_test_split from sklearn.model_selection
+3.  Scaled and fit the model using StandardScaler from sklearn.preprocessing
+4.  Tested the data in the following models:  Linear Regression, Lasso, Ridge, ElasticNet, Decision Tree Classifier, Random Forest, Gradient Boosting
 ### 
 ## Boostrap Source:
 * Template Name: Multi
