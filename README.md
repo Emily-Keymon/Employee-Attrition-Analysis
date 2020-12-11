@@ -49,17 +49,15 @@ Other more straight-forward data points we were given were Age, Gender, Marital 
 In our review of the data and in our visualizations within Tableau, you can see that there is no single variable which determines attrition rates. There are a few tendencies which become apparent in the data. For example, more single people are at risk of attrition than married people and the average monthly income of those who leave the company is lower than the overall company average. These examples are specific to our dataset, and therefore we needed a model which could be sensitive to them.
 
 Machine learning techniques also confirmed this by showing a very broad importance value range for many different variables. We used the Gradient Booster model for this dataset due to its unique approach to correcting for overfit in complex questions such as this one. Our Gradient Boosting Model enables us to use the outliers to predict using all of the measured variables and correcting as the algorithm runs. While there is no one factor which determines attrition, we can use this model to identify those factors which may make attrition more likely. This means, that now that we have trained this model, we can use similar data to determine the likelihood of attrition for any particular individual. Additionally, we could create a similar model for attrition data in another industry which may have different influential factors.
-
-### Boostrap Source:
+## Sources:
+### Boostrap:
 * Template Name: Multi
 * Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
-
-### Other Sources:
+### Other:
 * https://corporatefinanceinstitute.com/resources/careers/jobs/attrition-2/
-
-### Image Sources:
+### Images:
 * Image 1:  https://www.patriotsoftware.com/wp-content/uploads/2019/03/part-time-vs-full-time-employment-RS13776-compressor.jpg
 * Image 2:  https://images.idgesg.net/images/article/2019/08/thumbs-up_happy-employees_binary_diversity_motivated-staff_happy-people_by-peopleimages-getty-100809698-large.jpg
 * Image 3:  https://www.bonneystaffing.com/wp-content/uploads/2017/02/AdobeStock_1381193302.jpg
