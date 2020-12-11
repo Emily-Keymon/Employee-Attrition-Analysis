@@ -37,6 +37,13 @@ Other more straight-forward data points we were given were Age, Gender, Marital 
 2.  Trained the model using a seed using train_test_split from sklearn.model_selection
 3.  Scaled and fit the model using StandardScaler from sklearn.preprocessing
 4.  Tested the data in the following models:  Linear Regression, Lasso, Ridge, ElasticNet, Decision Tree Classifier, Random Forest, Gradient Boosting
+### Create visualizations
+1.  Data set was imported into Tableau
+2. Multiple variables were analyzed including travel frequency, job role, education field, overtime, marital status, age, education level, environment satisfaction and performance rating
+3.  Twenty two visualizations were created to represent all the varaibles of the data set
+### Website creation
+1.  Multi purpose Bootstrap template was used to create framework for website
+2.  Modified template with HTML and CSS to align with the data story
 ## Conclusions:
 In our review of the data and in our visualizations within Tableau, you can see that there is no single variable which determines attrition rates. There are a few tendencies which become apparent in the data. For example, more single people are at risk of attrition than married people and the average monthly income of those who leave the company is lower than the overall company average. These examples are specific to our dataset, and therefore we needed a model which could be sensitive to them.
 
