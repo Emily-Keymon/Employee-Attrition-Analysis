@@ -55,10 +55,10 @@ Machine learning techniques also confirmed this by showing a very broad importan
 * Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
-### Other:
-* https://corporatefinanceinstitute.com/resources/careers/jobs/attrition-2/
 ### Images:
 * Image 1:  https://www.patriotsoftware.com/wp-content/uploads/2019/03/part-time-vs-full-time-employment-RS13776-compressor.jpg
 * Image 2:  https://images.idgesg.net/images/article/2019/08/thumbs-up_happy-employees_binary_diversity_motivated-staff_happy-people_by-peopleimages-getty-100809698-large.jpg
 * Image 3:  https://www.bonneystaffing.com/wp-content/uploads/2017/02/AdobeStock_1381193302.jpg
+### Other:
+* https://corporatefinanceinstitute.com/resources/careers/jobs/attrition-2/
 
