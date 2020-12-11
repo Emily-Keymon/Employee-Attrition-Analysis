@@ -22,6 +22,7 @@ Other more straight-forward data points we were given were Age, Gender, Marital 
 ## Tools Used
 * Python - Pandas, Seaborn, Matplotlib, Numpy, Sklearn
 * HTML/CSS - Bootstrap
+* Tableau
 * Machine Learning models - Linear Regression, Lasso, Ridge, ElasticNet, Decision Tree Classifier, Random Forest, Gradient Boosting
 ## Tasks
 ### Data exploration 
