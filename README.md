@@ -1,6 +1,6 @@
 # Can Employee Attrition be Predicted?
 
-## Website:   https://emily-keymon.github.io/Employee-Attrition-Analysis/
+### Website:   https://emily-keymon.github.io/Employee-Attrition-Analysis/
 
 ### Tableau:  https://public.tableau.com/profile/antonuos.samor#!/vizhome/EMPLOYEE_ATTRITION_PREDICTOR/Story1
 
@@ -17,10 +17,9 @@ Our project is based around a fictional dataset that gave us various details on 
 Education was ranked 1-5, 1 being "Below College" and 5 being "Doctor." Environment Satisfaction was ranked 1-4; "Low" to "Very High." Job Involvement, Job Satisfaction, Performance Rating, Relationship Satisfaction, Work Life Balance all had similar 1-4 rankings, with 1 being "Low" and 4 being "Very High/Outstanding."
 
 Other more straight-forward data points we were given were Age, Gender, Marital Status, Job Title, Travel Time and Years Spent in Position. Most importantly, we were also given each employees Monthly Income and a Yes/No of whether they attrited or not.
-
 ## Data Source:  
 * https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
-## Languages/Libraries/Tools Used
+## Tools Used
 * Python - Pandas, Seaborn, Matplotlib, Numpy, Sklearn
 * HTML/CSS - Bootstrap
 * Machine Learning models - Linear Regression, Lasso, Ridge, ElasticNet, Decision Tree Classifier, Random Forest, Gradient Boosting
@@ -38,8 +37,6 @@ Other more straight-forward data points we were given were Age, Gender, Marital 
 2.  Trained the model using a seed using train_test_split from sklearn.model_selection
 3.  Scaled and fit the model using StandardScaler from sklearn.preprocessing
 4.  Tested the data in the following models:  Linear Regression, Lasso, Ridge, ElasticNet, Decision Tree Classifier, Random Forest, Gradient Boosting
-### 
-
 ## Conclusions:
 In our review of the data and in our visualizations within Tableau, you can see that there is no single variable which determines attrition rates. There are a few tendencies which become apparent in the data. For example, more single people are at risk of attrition than married people and the average monthly income of those who leave the company is lower than the overall company average. These examples are specific to our dataset, and therefore we needed a model which could be sensitive to them.
 Machine learning techniques also confirmed this by showing a very broad importance value range for many different variables. We used the Gradient Booster model for this dataset due to its unique approach to correcting for overfit in complex questions such as this one. Our Gradient Boosting Model enables us to use the outliers to predict using all of the measured variables and correcting as the algorithm runs. While there is no one factor which determines attrition, we can use this model to identify those factors which may make attrition more likely. This means, that now that we have trained this model, we can use similar data to determine the likelihood of attrition for any particular individual. Additionally, we could create a similar model for attrition data in another industry which may have different influential factors.
