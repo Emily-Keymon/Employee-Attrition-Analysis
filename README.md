@@ -28,6 +28,7 @@ Other more straight-forward data points we were given were Age, Gender, Marital 
 
 ---
 ## Tools Used
+* Jupyter Notebook
 * Python - Pandas, Seaborn, Matplotlib, Numpy, Sklearn
 * HTML/CSS - Bootstrap
 * Tableau
