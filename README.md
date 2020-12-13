@@ -1,10 +1,8 @@
 ![website](https://user-images.githubusercontent.com/64673015/102019389-f0a8f680-3d38-11eb-8805-57a5716241d2.PNG)
 
-# Can Employee Attrition be Predicted?
-
 ### Website:   https://emily-keymon.github.io/Employee-Attrition-Analysis/
 ---
-
+# Employee Attrition Analysis
 Our project is based around a fictional dataset that gave us various details on employees and whether they attrited or not. The challenge was to incorporate machine learning to give as an algorithm, for a company or manager to use, that determines if an employee will leave their position. Unfortunately, this data does not allow the creation of a model that can predict when an employee will leave but rather show you the likelihood of resignation in that current moment based on specific variables. From the dataset, we were given ratings for each employee on the below factors:
 
 * Education
