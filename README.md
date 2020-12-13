@@ -63,7 +63,7 @@ In our review of the data and in our visualizations within Tableau, you can see 
 
 Machine learning techniques also confirmed this by showing a very broad importance value range for many different variables. We used the Gradient Booster model for this dataset due to its unique approach to correcting for overfit in complex questions such as this one. Our Gradient Boosting Model enables us to use the outliers to predict using all of the measured variables and correcting as the algorithm runs. While there is no one factor which determines attrition, we can use this model to identify those factors which may make attrition more likely. This means, that now that we have trained this model, we can use similar data to determine the likelihood of attrition for any particular individual. Additionally, we could create a similar model for attrition data in another industry which may have different influential factors.
 
-![by_gender](https://user-images.githubusercontent.com/64673015/102020469-10dbb400-3d3f-11eb-8a9d-ce9505342f41.PNG)
+![by_gender](https://user-images.githubusercontent.com/64673015/102020519-526c5f00-3d3f-11eb-95cb-7a9afc7f794b.PNG)
 
 
 ![by_marital_status](https://user-images.githubusercontent.com/64673015/102020476-1afdb280-3d3f-11eb-9744-82d9d3654080.PNG)
