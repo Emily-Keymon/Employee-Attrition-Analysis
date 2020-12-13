@@ -1,3 +1,5 @@
+![website](https://user-images.githubusercontent.com/64673015/102019389-f0a8f680-3d38-11eb-8805-57a5716241d2.PNG)
+
 # Can Employee Attrition be Predicted?
 
 ### Website:   https://emily-keymon.github.io/Employee-Attrition-Analysis/
