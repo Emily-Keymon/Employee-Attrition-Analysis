@@ -65,7 +65,9 @@ Machine learning techniques also confirmed this by showing a very broad importan
 
 
 ![by_gender](https://user-images.githubusercontent.com/64673015/102020301-01a83680-3d3e-11eb-9ac6-9c8bad019f01.PNG)
+
 ![by_income](https://user-images.githubusercontent.com/64673015/102020316-0b319e80-3d3e-11eb-8cab-a4fff84ebab7.PNG)
+
 ![by_marital_status](https://user-images.githubusercontent.com/64673015/102020319-17b5f700-3d3e-11eb-8f73-aa5aff557383.PNG)
 
 ---
